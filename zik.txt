@@ -1,5 +1,9 @@
 hello,
 i am zikra iqbal
+<<<<<<< .merge_file_RXOGTg
 
 
 today is my third day in company.
+=======
+something new
+>>>>>>> .merge_file_6gz0Lq
